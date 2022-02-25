@@ -39,8 +39,13 @@ Skills
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" />
 </a> -->
 
+## Qt Projects
+
+
+
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=radical)]
 
-##
+## Stats
 
 ![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakandindis&show_icons=true&hide=contribs,prs,issues&theme=tokyonight)
