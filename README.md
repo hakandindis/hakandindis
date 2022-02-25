@@ -21,7 +21,7 @@ Skills
 
 ## Unity Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=save-the-doctor-game&card_width=75)](https://github.com/hakandindis/save-the-doctor-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=save-the-doctor-game)](https://github.com/hakandindis/save-the-doctor-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=memory-dice-game)](https://github.com/hakandindis/memory-dice-game)
 
 <a href="https://github.com/hakandindis/Bildir">
