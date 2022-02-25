@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 
 
-<!-- [![Braydon's GitHub Banner](logo.png)] -->
+[![Braydon's GitHub Banner](background.png)]
 
-<img src="logo.png" width="300">
+<!-- <img src="banner.png" width="300"> -->
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakandindis/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/hakandindis/)
