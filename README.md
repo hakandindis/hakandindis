@@ -33,11 +33,11 @@ Skills
 
 ## Flutter Projects
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=Bildir)](https://github.com/hakandindis/Bildir) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=Bildir)](https://github.com/hakandindis/Bildir)
 
-<a href="https://github.com/hakandindis/Bildir">
+<!-- <a href="https://github.com/hakandindis/Bildir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" />
-</a>
+</a> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=radical)]
 
