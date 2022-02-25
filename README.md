@@ -5,28 +5,25 @@
 
 <img src="logo.png" width="300">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakandindis/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/hakandindis/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakandindis/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/hakandindis/)
 
 
 
 Skills
 
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Qt_Framework-informational?style=flat&logo=qt&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Qt_Framework-informational?style=flat&logo=qt&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Socket_Programming-informational?style=flat&logo=cpp&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=4AB197)
-...
 
-<details>
+
+<!-- <details>
 <summary>More Skills</summary>
-
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-...
-</details>
+</details> -->
 
 
 
