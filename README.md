@@ -24,12 +24,12 @@ Skills
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=save-the-doctor-game)](https://github.com/hakandindis/save-the-doctor-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=memory-dice-game)](https://github.com/hakandindis/memory-dice-game)
 
-<a href="https://github.com/hakandindis/Bildir">
+<!-- <a href="https://github.com/hakandindis/Bildir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" width=350/>
 </a>
 <a href="https://github.com/hakandindis/Bildir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" width=350 />
-</a>
+</a> -->
 
 ## Flutter Projects
 
