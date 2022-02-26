@@ -5,6 +5,13 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakandindis/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/hakandindis/)
 
+<!-- ![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/-Dart-61DAFB?logo=dart&logoColor=white&style=flat-square) -->
+
+
+<!-- ![](https://komarev.com/ghpvc/?username=hakandindis&color=orange) -->
+
 Skills
 
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
