@@ -29,8 +29,8 @@ Skills
 
 ## Flutter Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=Bildir)](https://github.com/hakandindis/Bildir)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=quenya)](https://github.com/hakandindis/quenya)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Bildir)](https://github.com/hakandindis/Bildir)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=quenya)](https://github.com/hakandindis/quenya)
 
 <!-- <a href="https://github.com/hakandindis/Bildir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" />
