@@ -51,6 +51,11 @@ Skills
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=save-the-doctor-game)](https://github.com/hakandindis/save-the-doctor-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=memory-dice-game)](https://github.com/hakandindis/memory-dice-game)
 
+## Qt Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=synthwave&repo=udp-socket)](https://github.com/hakandindis/udp-socket)
+
+
 
 
 ## Languages
