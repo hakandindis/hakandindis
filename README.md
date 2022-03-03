@@ -38,6 +38,7 @@ Skills
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Bildir)](https://github.com/hakandindis/Bildir)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=quenya)](https://github.com/hakandindis/quenya)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=fake_store_app)](https://github.com/hakandindis/fake_store_app)
 
 <!-- <a href="https://github.com/hakandindis/Bildir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" />
@@ -59,8 +60,8 @@ Skills
 
 
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=radical&exclude_repo=save-the-doctor-game,memory-dice-game)
 
 ## Stats
 
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakandindis&show_icons=true&hide=contribs,prs,issues&theme=tokyonight)
+![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakandindis&show_icons=true&hide=contribs,prs,issues&theme=tokyonight&count_private=true)
