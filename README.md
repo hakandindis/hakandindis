@@ -12,7 +12,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=hakandindis&color=orange) -->
 
-Skills
+<!-- Skills
 
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
@@ -20,7 +20,7 @@ Skills
 ![](https://img.shields.io/badge/Qt_Framework-informational?style=flat&logo=qt&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Socket_Programming-informational?style=flat&logo=cpp&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=4AB197) -->
 
 <!-- <details>
 <summary>More Skills</summary>
