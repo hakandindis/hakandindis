@@ -9,7 +9,6 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/-Dart-61DAFB?logo=dart&logoColor=white&style=flat-square) -->
 
-
 <!-- ![](https://komarev.com/ghpvc/?username=hakandindis&color=orange) -->
 
 <!-- Skills
@@ -26,7 +25,6 @@
 <summary>More Skills</summary>
 </details> -->
 
-
 <!-- <a href="https://github.com/hakandindis/Bildir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" width=350/>
 </a>
@@ -35,9 +33,12 @@
 </a> -->
 
 ## Flutter Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=coffee_app)](https://github.com/hakandindis/coffee_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=rick_morty_app)](https://github.com/hakandindis/rick_morty_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Bildir)](https://github.com/hakandindis/Bildir)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=quenya)](https://github.com/hakandindis/quenya)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=fake_store_app)](https://github.com/hakandindis/fake_store_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=portfolio_app)](https://github.com/hakandindis/portfolio_app)
 
@@ -46,7 +47,6 @@
 </a> -->
 
 <!-- ## Qt Projects -->
-
 
 ## Unity Repositories
 
@@ -57,10 +57,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=synthwave&repo=udp-socket)](https://github.com/hakandindis/udp-socket)
 
-
-
-
 ## Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=radical&exclude_repo=save-the-doctor-game,memory-dice-game)
 
 ## Stats
