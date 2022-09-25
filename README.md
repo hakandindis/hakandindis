@@ -1,4 +1,4 @@
-![Hakan's GitHub Banner](background.png)
+<!-- ![Hakan's GitHub Banner](background.png) -->
 
 <!-- <img src="banner.png" width="300"> -->
 
