@@ -32,8 +32,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" width=350 />
 </a> -->
 
+## Languages & Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=radical&exclude_repo=save-the-doctor-game,memory-dice-game)
+![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakandindis&show_icons=true&hide=contribs,prs,issues&theme=tokyonight&count_private=true)
+
+## Android Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Skadi)](https://github.com/hakandindis/Skadi)
+
 ## Flutter Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Quiz-App)](https://github.com/hakandindis/Quiz-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=coffee_app)](https://github.com/hakandindis/coffee_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=rick_morty_app)](https://github.com/hakandindis/rick_morty_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Bildir)](https://github.com/hakandindis/Bildir)
@@ -54,14 +64,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=save-the-doctor-game)](https://github.com/hakandindis/save-the-doctor-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=memory-dice-game)](https://github.com/hakandindis/memory-dice-game)
 
-## Qt Repositories
+<!-- ## Qt Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=synthwave&repo=udp-socket)](https://github.com/hakandindis/udp-socket)
-
-## Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=radical&exclude_repo=save-the-doctor-game,memory-dice-game)
-
-## Stats
-
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakandindis&show_icons=true&hide=contribs,prs,issues&theme=tokyonight&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=synthwave&repo=udp-socket)](https://github.com/hakandindis/udp-socket) -->
