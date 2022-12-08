@@ -40,7 +40,6 @@
 ## Android Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Skadi)](https://github.com/hakandindis/Skadi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Lancer)](https://github.com/hakandindis/Lancer)
 ## Flutter Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Quiz-App)](https://github.com/hakandindis/Quiz-App)
