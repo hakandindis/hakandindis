@@ -39,30 +39,12 @@
 
 ## Android Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=FinanceApp)](https://github.com/hakandindis/FinanceApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=MovieApp)](https://github.com/hakandindis/MovieApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=CryptoApp)](https://github.com/hakandindis/CryptoApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Skadi)](https://github.com/hakandindis/Skadi)
-## Flutter Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Quiz-App)](https://github.com/hakandindis/Quiz-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=coffee_app)](https://github.com/hakandindis/coffee_app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=rick_morty_app)](https://github.com/hakandindis/rick_morty_app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Bildir)](https://github.com/hakandindis/Bildir)
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=quenya)](https://github.com/hakandindis/quenya)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=fake_store_app)](https://github.com/hakandindis/fake_store_app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=portfolio_app)](https://github.com/hakandindis/portfolio_app) -->
-
-<!-- <a href="https://github.com/hakandindis/Bildir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" />
-</a> -->
-
-<!-- ## Qt Projects -->
 
 ## Unity Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=save-the-doctor-game)](https://github.com/hakandindis/save-the-doctor-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=memory-dice-game)](https://github.com/hakandindis/memory-dice-game)
-
-<!-- ## Qt Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=synthwave&repo=udp-socket)](https://github.com/hakandindis/udp-socket) -->
