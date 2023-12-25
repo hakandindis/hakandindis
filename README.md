@@ -42,7 +42,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=FinanceApp)](https://github.com/hakandindis/FinanceApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=MovieApp)](https://github.com/hakandindis/MovieApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=CryptoApp)](https://github.com/hakandindis/CryptoApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=Skadi)](https://github.com/hakandindis/Skadi)
 
 ## Unity Repositories
 
