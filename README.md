@@ -35,7 +35,7 @@
 ## Languages & Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=radical&exclude_repo=save-the-doctor-game,memory-dice-game&hide=javascript)
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakandindis&show_icons=true&hide=contribs,prs,issues&theme=tokyonight&count_private=true)
+![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakandindis&show_icons=true&hide=contribs,issues&theme=tokyonight&count_private=true)
 
 ## Android Repositories
 
