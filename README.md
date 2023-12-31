@@ -37,6 +37,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=radical&exclude_repo=save-the-doctor-game,memory-dice-game&hide=javascript)
 ![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakandindis&show_icons=true&hide=contribs,issues&theme=tokyonight&count_private=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hakandindis&theme=tokyonight-duo&border_radius=5)](https://git.io/streak-stats)
+
 ## Android Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=FinanceApp)](https://github.com/hakandindis/FinanceApp)
