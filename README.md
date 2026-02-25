@@ -16,10 +16,10 @@ I'm a motivated and team-oriented Android developer with over 4 years of experie
   ULAKIM — End-to-end encrypted messaging application. Defense industry.
 
 - **August 2023 - December 2024** — [Türk Telekom & Innova](https://www.linkedin.com/company/innova/) — Android Developer  
-  Türk Telekom Mobile Application (10M+ monthly active users). MVVM architecture migration, FCM, voice and video conference features.
+  Türk Telekom Mobile Application. MVVM architecture migration, FCM, voice and video conference features.
 
 - **December 2024 - Present** — [Migros One & StartupHeroes](https://www.linkedin.com/company/startuphero-es/) — Android Developer  
-  Migros Sanalmarket (5M+ monthly active users). Jetpack Compose, Hilt, MVVM, Google Maps SDK.
+  Migros Sanalmarket. Jetpack Compose, Hilt, MVVM, Google Maps SDK.
 
 ## Present
 
