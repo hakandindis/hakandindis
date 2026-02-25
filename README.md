@@ -1,51 +1,41 @@
-<!-- ![Hakan's GitHub Banner](background.png) -->
+# Hi 👋, I'm Hakan
 
-<!-- <img src="banner.png" width="300"> -->
+**Android Developer | Computer Engineer**
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakandindis/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/hakandindis/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakandindis/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D76A8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hakandindis/)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-0D76A8?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hakandindis/)
 
-<!-- ![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/-Dart-61DAFB?logo=dart&logoColor=white&style=flat-square) -->
+---
 
-<!-- ![](https://komarev.com/ghpvc/?username=hakandindis&color=orange) -->
+I'm a motivated and team-oriented Android developer with over 4 years of experience across defense, telecom, and e-commerce industries. Well-versed in Agile methodologies; I value continuous learning and strong communication skills.
 
-<!-- Skills
+## Career
 
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
+- **June 2022 - August 2023** — [Ordulu Technology](https://www.linkedin.com/company/orduluteknoloji/) — Android Developer  
+  ULAKIM — End-to-end encrypted messaging application. Defense industry.
 
-![](https://img.shields.io/badge/Qt_Framework-informational?style=flat&logo=qt&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Socket_Programming-informational?style=flat&logo=cpp&logoColor=white&color=4AB197)
+- **August 2023 - December 2024** — [Türk Telekom & Innova](https://www.linkedin.com/company/innova/) — Android Developer  
+  Türk Telekom Mobile Application (10M+ monthly active users). MVVM architecture migration, FCM, voice and video conference features.
 
-![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=4AB197) -->
+- **December 2024 - Present** — [Migros One & StartupHeroes](https://www.linkedin.com/company/startuphero-es/) — Android Developer  
+  Migros Sanalmarket (5M+ monthly active users). Jetpack Compose, Hilt, MVVM, Google Maps SDK.
 
-<!-- <details>
-<summary>More Skills</summary>
-</details> -->
+## Present
 
-<!-- <a href="https://github.com/hakandindis/Bildir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" width=350/>
-</a>
-<a href="https://github.com/hakandindis/Bildir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" width=350 />
-</a> -->
+- 🔭 Working as an Android Developer at Migros One & StartupHeroes
+- 🌱 Modern Android development with Jetpack Compose, Hilt, and MVVM
+- 🎓 Ankara University Computer Engineering graduate (2019-2023, GPA 3.60)
 
-## Languages & Stats
+## Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakandindis&layout=compact&theme=tokyonight&exclude_repo=save-the-doctor-game,memory-dice-game&hide=javascript)
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakandindis&show_icons=true&hide=contribs,issues&theme=tokyonight&count_private=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hakandindis&theme=tokyonight-duo&border_radius=5)](https://git.io/streak-stats)
-
-## Android Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=FinanceApp)](https://github.com/hakandindis/FinanceApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=MovieApp)](https://github.com/hakandindis/MovieApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=radical&repo=CryptoApp)](https://github.com/hakandindis/CryptoApp)
-
-## Unity Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=save-the-doctor-game)](https://github.com/hakandindis/save-the-doctor-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=tokyonight&repo=memory-dice-game)](https://github.com/hakandindis/memory-dice-game)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-009688?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
